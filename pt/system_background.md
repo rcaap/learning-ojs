@@ -1,0 +1,9 @@
+# Antecedentes
+
+*O OJS é um sistema de gestão/publicação de revistas/websites*. O OJS cobre todos os aspetos da publicação online de uma revista, desde criar um website para uma revista até às tarefas operacionais tais como o processo de submissão pelo autor, processo de revisão por pares, edição, publicação, arquivo, e indexação da revista. O OJS ainda auxilia na gestão das questões de pessoal de organizar uma revista, incluindo seguir o trabalho dos editores, revisores e autores, notificar os leitores, e apoiar na correspondência.
+
+*O OJS é flexível e ajustável*. Uma única instalação do OJS suporta a existência de uma ou várias revistas. Cada revista tem o seu URL único bem o seu próprio visual. O OJS permite que um único editor faça a gestão de todos os aspetos de uma revista e do website da revista, ou que uma equipa internacional de editores divida as responsabilidades numa revista com diversas secções.
+
+*O OJS apoia o princípio de acesso alargado*. Este sistema foi desenvolvido não só para auxiliar na publicação de revistas, mas também para demonstrar que os custos de publicação de uma revista podem ser consideravelmente reduzidos de forma a que  oferecer aos leitores "acesso aberto" aos conteúdos da revista é uma opção viável. O acesso aberto tem sido amplamente divulgado em artigos derivados deste projeto que se encontram disponíveis em Investigação > Publicações no website do[Public Knowledge Project](https://pkp.sfu.ca/).
+
+*As origens do OJS*. O sistema foi lançado pela primeira vez em 2001 como uma iniciativa de investigação e desenvolvimento na University of British Columbia, com o apoio do Social Sciences and Humanities Research Council of Canada, a Max Bell Foundation, o Pacific Press Endowment, e a MacArthur Foundation. O seu desenvolvimento contínuo é atualmente dirigido pela Simon Fraser University Library. Para mais informação, veja o [website do Public Knowledge Project](http://pkp.sfu.ca).
